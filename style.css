@@ -257,7 +257,7 @@ section{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: crimson;
+    color: #10f512;
     transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i{
